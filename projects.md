@@ -11,8 +11,8 @@
 
 # Proofs / Consensus Mechanisms
 
-* [Proof of Work](#)
-* [Proof of Stake](#)
+* [Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work_system)
+* [Proof of Stake](https://en.wikipedia.org/wiki/Proof-of-stake)
 * [Proog of Space](https://en.wikipedia.org/wiki/Proof-of-space)
 * [Proof of Existence](https://poex.io/about):  
 * [Proof of Elapsed Time](https://sawtooth.hyperledger.org/docs/core/releases/latest/architecture/poet.html): 
