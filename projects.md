@@ -1,6 +1,7 @@
 
 # Chains
 
+* [IPFS](https://ipfs.io/): Decentralized Storage
 * [Hyperledger](https://www.hyperledger.org/): An umbrella project for various Blockchain technologies run by the Linux Foundation
 * [IBM Adept](https://www.slideshare.net/_hd/ibm-adept): Blockchain for IoT
 * [Quorum](https://www.jpmorgan.com/global/Quorum): Enterprise focused Ethereum
