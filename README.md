@@ -1,2 +1,2 @@
 # BlockchainTech
-A repo to hold some of the interesting Blockchain technologies
+A repo to hold links and resources on various Blockchain projects
