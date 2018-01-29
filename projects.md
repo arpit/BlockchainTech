@@ -1,5 +1,5 @@
 
-# Chains
+# Chains / Platforms
 
 * [IPFS](https://ipfs.io/): Decentralized Storage
 * [Hyperledger](https://www.hyperledger.org/): An umbrella project for various Blockchain technologies run by the Linux Foundation
@@ -34,6 +34,7 @@
 * [Peerpad](https://peerpad.net): Collaborative hackpad using IPFS
 * [ZeroNet](https://zeronet.io/): Deploy Websites using Namecoin + Bitcoin + BitTorrent
 * [Cryptokitties](https://www.cryptokitties.co/): Digital 'cats' secured on the Blockchain
+* [HashGraph](https://hashgraph.com/): New approach to distributed consensus and looks to provide an upgrade to the current systems of distributed ledger technology (DLT).
 
 
 # Libraries and Frameworks
