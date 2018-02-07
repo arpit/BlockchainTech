@@ -35,6 +35,8 @@
 * [ZeroNet](https://zeronet.io/): Deploy Websites using Namecoin + Bitcoin + BitTorrent
 * [Cryptokitties](https://www.cryptokitties.co/): Digital 'cats' secured on the Blockchain
 * [HashGraph](https://hashgraph.com/): New approach to distributed consensus and looks to provide an upgrade to the current systems of distributed ledger technology (DLT).
+* Ethereum Specifically
+  * [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
 
 
 # Libraries and Frameworks
