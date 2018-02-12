@@ -8,6 +8,8 @@
 * [R3 Corda](https://www.r3.com/): Financial Blockchain
 * [Stellar](https://www.stellar.org/): Financial Blockchain focused on speed
 * [Tezos](https://www.tezos.com/): Blockchain with incentives for evolution built in
+* [IOTA](https://iota.org/): Blockchain for IoT devices, based on the [Tangle protocol](https://iota.org/IOTA_Whitepaper.pdf) 
+  * [Tangle Visualizer](http://tangle.glumb.de/)
 
 # Proofs / Consensus Mechanisms
 
@@ -37,6 +39,7 @@
 * [HashGraph](https://hashgraph.com/): New approach to distributed consensus and looks to provide an upgrade to the current systems of distributed ledger technology (DLT).
 * Ethereum Specifically
   * [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
+* [BigChain Database](https://www.bigchaindb.com/) 
 
 
 # Libraries and Frameworks
