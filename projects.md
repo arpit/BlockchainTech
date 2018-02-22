@@ -22,6 +22,7 @@
 * [Proof of Replication](https://filecoin.io/filecoin.pdf): Used by Filecoin
 * [Proof of Burn](https://en.bitcoin.it/wiki/Proof_of_burn)
 * [Proof of Location](https://www.foam.space/): Used by FOAM
+* [Delegated Proof of Stake](https://hackernoon.com/explain-delegated-proof-of-stake-like-im-5-888b2a74897d): Used by Bitshares, Steem, Lisk
 
 # Interesting Projects
 
