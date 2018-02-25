@@ -44,6 +44,9 @@
 * [HashCash](https://en.wikipedia.org/wiki/Hashcash): Proof of work attached to email to prove not spam
 * 
 
+# Identity
+
+* [Civic](https://www.civic.com/)
 
 # Libraries and Frameworks
 
