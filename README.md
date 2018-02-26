@@ -38,11 +38,12 @@
 * [ZeroNet](https://zeronet.io/): Deploy Websites using Namecoin + Bitcoin + BitTorrent
 * [Cryptokitties](https://www.cryptokitties.co/): Digital 'cats' secured on the Blockchain
 * [HashGraph](https://hashgraph.com/): New approach to distributed consensus and looks to provide an upgrade to the current systems of distributed ledger technology (DLT).
-* Ethereum Specifically
-  * [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
 * [BigChain Database](https://www.bigchaindb.com/) 
 * [HashCash](https://en.wikipedia.org/wiki/Hashcash): Proof of work attached to email to prove not spam
-* 
+
+### Ethereum Tools:
+* [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
+* [Blockcat](https://blockcat.io/): Templates for Eth contracts
 
 # Identity
 
@@ -58,3 +59,9 @@
 * [Building a Bitcoin wallet from scratch](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
 * [Elliptic Curve Cryptography basics](https://www.royalfork.org/2014/09/04/ecc/)
 * [Another ECC tutorial](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+
+# Other Collections
+
+[Josh Nussbaum's list](https://medium.com/@josh_nussbaum/blockchain-project-ecosystem-8940ababaf27)
+![](https://i.imgur.com/SJMeCBU.jpg)
+
