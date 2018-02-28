@@ -62,6 +62,7 @@
 
 # Other Collections
 
+[Xel's list](https://github.com/Xel/Blockchain-stuff)
 [Josh Nussbaum's list](https://medium.com/@josh_nussbaum/blockchain-project-ecosystem-8940ababaf27)
 ![](https://i.imgur.com/SJMeCBU.jpg)
 
