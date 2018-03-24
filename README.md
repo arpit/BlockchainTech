@@ -41,7 +41,12 @@
 * [BigChain Database](https://www.bigchaindb.com/) 
 * [HashCash](https://en.wikipedia.org/wiki/Hashcash): Proof of work attached to email to prove not spam
 
-### Ethereum Dev Services (SaaS:
+
+# Identity
+
+* [Civic](https://www.civic.com/)
+
+### Ethereum Dev Services (SaaS):
 * [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
 * [Blockcat](https://blockcat.io/): Templates for Eth contracts
 
@@ -53,9 +58,6 @@
 * [Open Zepplin](https://openzeppelin.org/): Reusable and secure smart contracts in the Solidity
 
 
-# Identity
-
-* [Civic](https://www.civic.com/)
 
 
 # Good Articles / Tutorials
