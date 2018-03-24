@@ -44,6 +44,7 @@
 ### Ethereum Tools:
 * [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
 * [Blockcat](https://blockcat.io/): Templates for Eth contracts
+* [Security tools]: https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/
 
 # Identity
 
