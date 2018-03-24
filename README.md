@@ -41,18 +41,22 @@
 * [BigChain Database](https://www.bigchaindb.com/) 
 * [HashCash](https://en.wikipedia.org/wiki/Hashcash): Proof of work attached to email to prove not spam
 
-### Ethereum Tools:
+### Ethereum Dev Services (SaaS:
 * [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
 * [Blockcat](https://blockcat.io/): Templates for Eth contracts
-* [Security tools]: https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/
+
+
+### Developer tools
+
+* [Security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
+* [Truffle for Etherium](http://truffleframework.com/docs/)
+* [Open Zepplin](https://openzeppelin.org/): Reusable and secure smart contracts in the Solidity
+
 
 # Identity
 
 * [Civic](https://www.civic.com/)
 
-# Libraries and Frameworks
-
-* [Truffle for Etherium](http://truffleframework.com/docs/)
 
 # Good Articles / Tutorials
 
