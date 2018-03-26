@@ -66,6 +66,7 @@
 * [Building a Bitcoin wallet from scratch](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
 * [Elliptic Curve Cryptography basics](https://www.royalfork.org/2014/09/04/ecc/)
 * [Another ECC tutorial](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+* [Create an ICO on Ethereum](https://webcase.studio/blog/launch-ico-ethereum/?utm_source=catalogs&utm_campaign=crypto)
 
 # Other Collections
 
