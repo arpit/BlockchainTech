@@ -40,6 +40,7 @@
 * [HashGraph](https://hashgraph.com/): New approach to distributed consensus and looks to provide an upgrade to the current systems of distributed ledger technology (DLT).
 * [BigChain Database](https://www.bigchaindb.com/) 
 * [HashCash](https://en.wikipedia.org/wiki/Hashcash): Proof of work attached to email to prove not spam
+* [Colony](https://colony.io/): Decentralized organizations ([Github](https://github.com/JoinColony/colonyNetwork))
 
 
 # Identity
