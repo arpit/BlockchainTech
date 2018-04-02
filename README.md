@@ -68,6 +68,7 @@
 * [Elliptic Curve Cryptography basics](https://www.royalfork.org/2014/09/04/ecc/)
 * [Another ECC tutorial](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
 * [Create an ICO on Ethereum](https://webcase.studio/blog/launch-ico-ethereum/?utm_source=catalogs&utm_campaign=crypto)
+* [Build your first SmartContract](https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b): Using Geth
 
 # Other Collections
 
