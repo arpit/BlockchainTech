@@ -58,8 +58,9 @@
 * [Truffle for Etherium](http://truffleframework.com/docs/)
 * [Open Zepplin](https://openzeppelin.org/): Reusable and secure smart contracts in the Solidity
 
+# Decentralization
 
-
+* [Solid Framework](https://github.com/solid/solid-tutorial-intro)
 
 # Good Articles / Tutorials
 
