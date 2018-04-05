@@ -1,3 +1,5 @@
+![](./imgs/blockchain-timeline.png)
+
 * Oct 2008: Satoshi publishes first whitepaper on Bitcoin
 * Jan 2009: Bitcoin software v0.1 launch
 * Jul 2011: Coinbase launch
