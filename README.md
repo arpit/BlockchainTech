@@ -45,6 +45,7 @@
 
 # Identity
 
+* [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy)
 * [Civic](https://www.civic.com/)
 
 ### Ethereum Dev Services (SaaS):
