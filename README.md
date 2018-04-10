@@ -8,16 +8,16 @@
 * [R3 Corda](https://www.r3.com/): Financial Blockchain
 * [Stellar](https://www.stellar.org/): Financial Blockchain focused on speed
 * [Tezos](https://www.tezos.com/): Blockchain with incentives for evolution built in
-* [IOTA](https://iota.org/): Blockchain for IoT devices, based on the [Tangle protocol](https://iota.org/IOTA_Whitepaper.pdf) 
+* [IOTA](https://iota.org/): Blockchain for IoT devices, based on the [Tangle protocol](https://iota.org/IOTA_Whitepaper.pdf)
   * [Tangle Visualizer](http://tangle.glumb.de/)
 
 # Proofs / Consensus Mechanisms
 
 * [Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work_system)
 * [Proof of Stake](https://en.wikipedia.org/wiki/Proof-of-stake)
-* [Proog of Space](https://en.wikipedia.org/wiki/Proof-of-space)
+* [Proof of Space](https://en.wikipedia.org/wiki/Proof-of-space)
 * [Proof of Existence](https://poex.io/about):  
-* [Proof of Elapsed Time](https://sawtooth.hyperledger.org/docs/core/releases/latest/architecture/poet.html): 
+* [Proof of Elapsed Time](https://sawtooth.hyperledger.org/docs/core/releases/latest/architecture/poet.html):
 * [Proof of SpaceTime](https://filecoin.io/filecoin.pdf): Used by Filecoin
 * [Proof of Replication](https://filecoin.io/filecoin.pdf): Used by Filecoin
 * [Proof of Burn](https://en.bitcoin.it/wiki/Proof_of_burn)
@@ -39,7 +39,7 @@
 * [Cryptokitties](https://www.cryptokitties.co/): Digital 'cats' secured on the Blockchain
   * [KittyRace](https://kittyrace.com/) Use your CryptoKitties in this racing game
 * [HashGraph](https://hashgraph.com/): New approach to distributed consensus and looks to provide an upgrade to the current systems of distributed ledger technology (DLT).
-* [BigChain Database](https://www.bigchaindb.com/) 
+* [BigChain Database](https://www.bigchaindb.com/)
 * [HashCash](https://en.wikipedia.org/wiki/Hashcash): Proof of work attached to email to prove not spam
 * [Colony](https://colony.io/): Decentralized organizations ([Github](https://github.com/JoinColony/colonyNetwork))
 
@@ -78,4 +78,3 @@
 [Xel's list](https://github.com/Xel/Blockchain-stuff)
 [Josh Nussbaum's list](https://medium.com/@josh_nussbaum/blockchain-project-ecosystem-8940ababaf27)
 ![](https://i.imgur.com/SJMeCBU.jpg)
-
