@@ -37,6 +37,7 @@
 * [Peerpad](https://peerpad.net): Collaborative hackpad using IPFS
 * [ZeroNet](https://zeronet.io/): Deploy Websites using Namecoin + Bitcoin + BitTorrent
 * [Cryptokitties](https://www.cryptokitties.co/): Digital 'cats' secured on the Blockchain
+  * [KittyRace](https://kittyrace.com/) Use your CryptoKitties in this racing game
 * [HashGraph](https://hashgraph.com/): New approach to distributed consensus and looks to provide an upgrade to the current systems of distributed ledger technology (DLT).
 * [BigChain Database](https://www.bigchaindb.com/) 
 * [HashCash](https://en.wikipedia.org/wiki/Hashcash): Proof of work attached to email to prove not spam
