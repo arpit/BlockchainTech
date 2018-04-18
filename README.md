@@ -42,7 +42,7 @@
 * [BigChain Database](https://www.bigchaindb.com/)
 * [HashCash](https://en.wikipedia.org/wiki/Hashcash): Proof of work attached to email to prove not spam
 * [Colony](https://colony.io/): Decentralized organizations ([Github](https://github.com/JoinColony/colonyNetwork))
-
+* [Storj](https://storj.io/): Decentralized storage (former team behind Docker)
 
 # Identity
 
