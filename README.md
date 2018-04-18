@@ -54,8 +54,9 @@
 * [Blockcat](https://blockcat.io/): Templates for Eth contracts
 
 
-### Developer tools
+### Ethereum Development
 
+* [Upgradable Smart Contracts](https://zohaib.me/upgradeable-smart-contracts-in-ethereum/)
 * [Security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
 * [Truffle for Etherium](http://truffleframework.com/docs/)
 * [Open Zepplin](https://openzeppelin.org/): Reusable and secure smart contracts in the Solidity
