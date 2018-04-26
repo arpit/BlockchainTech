@@ -36,7 +36,7 @@
 * [Kin](https://medium.com/kinfoundation/announcing-kin-a-cryptocurrency-for-an-open-future-98f1da2f498a): Cryptocurrency for the Kik messsaging app
 * [Peerpad](https://peerpad.net): Collaborative hackpad using IPFS
 * [ZeroNet](https://zeronet.io/): Deploy Websites using Namecoin + Bitcoin + BitTorrent
-* [Cryptokitties](https://www.cryptokitties.co/): Digital 'cats' secured on the Blockchain
+* [Cryptokitties](https://www.cryptokitties.co/): Digital 'cats' secured on the Blockchain. [Contract Address](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d)
   * [KittyRace](https://kittyrace.com/) Use your CryptoKitties in this racing game
 * [HashGraph](https://hashgraph.com/): New approach to distributed consensus and looks to provide an upgrade to the current systems of distributed ledger technology (DLT).
 * [BigChain Database](https://www.bigchaindb.com/)
@@ -60,6 +60,8 @@
 * [Security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
 * [Truffle for Etherium](http://truffleframework.com/docs/)
 * [Open Zepplin](https://openzeppelin.org/): Reusable and secure smart contracts in the Solidity
+* [Etherscan](https://etherscan.io/)
+* [Eth Gas Station: Gassguzzlers](https://ethgasstation.info/gasguzzlers.php): Look at the most active contracts 
 
 # Decentralization
 
