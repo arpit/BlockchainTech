@@ -76,6 +76,7 @@
 * [Create an ICO on Ethereum](https://webcase.studio/blog/launch-ico-ethereum/?utm_source=catalogs&utm_campaign=crypto)
 * [Build your first SmartContract](https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b): Using Geth
 * [Deploying a Smart Contract the hard way](https://medium.com/@gus_tavo_guim/deploying-a-smart-contract-the-hard-way-8aae778d4f2a): Using Geth and Web3js to deploy a Smart Contract. Good read to understand whats happening under the hood.
+* [Lightning Network Options](https://bitcoinmagazine.com/articles/future-bitcoin-what-lightning-could-look/)
 
 # Other Collections
 
