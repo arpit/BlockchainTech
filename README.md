@@ -48,6 +48,11 @@
 
 * [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy)
 * [Civic](https://www.civic.com/)
+* [BlockStack](https://blockstack.org/)
+* [Bitnation](https://tse.bitnation.co/)
+* [Cambridge Blockchain LLC](https://www.cambridge-blockchain.com/)
+* [ID 2020](https://id2020.org/)
+
 
 ### Ethereum Dev Services (SaaS):
 * [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
