@@ -84,7 +84,7 @@
 * [Lightning Network Options](https://bitcoinmagazine.com/articles/future-bitcoin-what-lightning-could-look/)
 
 # Other Collections
-
+[Consensys Ecosystem](https://media.consensys.net/get-to-know-the-47-projects-that-make-up-the-consensys-mesh-478b7d3028c1)
 [Xel's list](https://github.com/Xel/Blockchain-stuff)
 [Josh Nussbaum's list](https://medium.com/@josh_nussbaum/blockchain-project-ecosystem-8940ababaf27)
 ![](https://i.imgur.com/SJMeCBU.jpg)
