@@ -46,6 +46,7 @@
 
 # Identity
 
+* [UPort](https://www.uport.me/)
 * [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy)
 * [Civic](https://www.civic.com/)
 * [BlockStack](https://blockstack.org/)
