@@ -1,3 +1,4 @@
+![](https://github.com/arpit/BlockchainTech/blob/master/imgs/blockchain-mindmap.png?raw=true)
 
 # Chains / Platforms
 
