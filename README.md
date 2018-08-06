@@ -70,6 +70,7 @@
 * [Etherscan](https://etherscan.io/)
 * [Eth Gas Station: Gassguzzlers](https://ethgasstation.info/gasguzzlers.php): Look at the most active contracts 
 * [Building State Channel Apps](https://medium.com/statechannels/state-channel-applications-1f170e7d542e): Use the state channels in Ethereum for instant transactions
+* [EthersJS](https://github.com/ethers-io/ethers.js/): Complete library and implementation of Ethereum wallet using JS
 
 # Decentralization
 
