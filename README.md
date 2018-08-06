@@ -69,6 +69,7 @@
 * [Open Zepplin](https://openzeppelin.org/): Reusable and secure smart contracts in the Solidity
 * [Etherscan](https://etherscan.io/)
 * [Eth Gas Station: Gassguzzlers](https://ethgasstation.info/gasguzzlers.php): Look at the most active contracts 
+* [Building State Channel Apps](https://medium.com/statechannels/state-channel-applications-1f170e7d542e): Use the state channels in Ethereum for instant transactions
 
 # Decentralization
 
