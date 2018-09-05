@@ -44,6 +44,7 @@
 * [HashCash](https://en.wikipedia.org/wiki/Hashcash): Proof of work attached to email to prove not spam
 * [Colony](https://colony.io/): Decentralized organizations ([Github](https://github.com/JoinColony/colonyNetwork))
 * [Storj](https://storj.io/): Decentralized storage (former team behind Docker)
+* [LibP2P](https://libp2p.io/): P2P Communication Lib used by FileCoin
 
 # Identity
 
