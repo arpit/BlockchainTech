@@ -45,6 +45,7 @@
 * [Colony](https://colony.io/): Decentralized organizations ([Github](https://github.com/JoinColony/colonyNetwork))
 * [Storj](https://storj.io/): Decentralized storage (former team behind Docker)
 * [LibP2P](https://libp2p.io/): P2P Communication Lib used by FileCoin
+* [Orbit P2P Database](https://orbitdb.org/about/): OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers
 
 # Identity
 
