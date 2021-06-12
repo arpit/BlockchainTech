@@ -29,6 +29,7 @@
 ### Ethereum Development
 
 * [Solidity Template with Hardhad and Ethersjs](https://github.com/paulrberg/solidity-template): Recommended by [@Ed Mazurek](https://twitter.com/wildmolasses)
+* https://ethereumdev.io/: Site with good articles on common contracts
 * [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
 * [Blockcat](https://blockcat.io/): Templates for Eth contracts
 * [Upgradable Smart Contracts](https://zohaib.me/upgradeable-smart-contracts-in-ethereum/)
