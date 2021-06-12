@@ -25,6 +25,25 @@
 * [Proof of Location](https://www.foam.space/): Used by FOAM
 * [Delegated Proof of Stake](https://hackernoon.com/explain-delegated-proof-of-stake-like-im-5-888b2a74897d): Used by Bitshares, Steem, Lisk
 
+
+### Ethereum Development
+
+* [Solidity Template with Hardhad and Ethersjs](https://github.com/paulrberg/solidity-template): Recommended by [@Ed Mazurek](https://twitter.com/wildmolasses)
+* [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
+* [Blockcat](https://blockcat.io/): Templates for Eth contracts
+* [Upgradable Smart Contracts](https://zohaib.me/upgradeable-smart-contracts-in-ethereum/)
+* [Security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
+* [Truffle for Etherium](http://truffleframework.com/docs/)
+* [Open Zepplin](https://openzeppelin.org/): Reusable and secure smart contracts in the Solidity
+* [Etherscan](https://etherscan.io/)
+* [Eth Gas Station: Gassguzzlers](https://ethgasstation.info/gasguzzlers.php): Look at the most active contracts 
+* [Building State Channel Apps](https://medium.com/statechannels/state-channel-applications-1f170e7d542e): Use the state channels in Ethereum for instant transactions
+* [EthersJS](https://github.com/ethers-io/ethers.js/): Complete library and implementation of Ethereum wallet using JS
+* Solidity Libs:
+  * [Solidity Array Utils](https://blog.cryptofin.io/improving-the-ethereum-developer-ecosystem-with-libraries-5a95ffaf632d)
+
+
+
 # Interesting Projects
 
 * [Interledger](https://interledger.org/): Open protocol suite for sending payments across different ledgers
@@ -47,6 +66,10 @@
 * [LibP2P](https://libp2p.io/): P2P Communication Lib used by FileCoin
 * [Orbit P2P Database](https://orbitdb.org/about/): OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers
 
+# NFTs
+
+* [a16z NFT Cannon](https://a16z.com/2021/04/02/nfts-readings-resources/): Collection of links on NFTs
+
 # Identity
 
 * [UPort](https://www.uport.me/)
@@ -56,26 +79,6 @@
 * [Bitnation](https://tse.bitnation.co/)
 * [Cambridge Blockchain LLC](https://www.cambridge-blockchain.com/)
 * [ID 2020](https://id2020.org/)
-
-
-### Ethereum Dev Services (SaaS):
-* [Pragma](https://www.withpragma.com/): Inspect transactions against a contract
-* [Blockcat](https://blockcat.io/): Templates for Eth contracts
-
-
-### Ethereum Development
-
-* [Upgradable Smart Contracts](https://zohaib.me/upgradeable-smart-contracts-in-ethereum/)
-* [Security tools](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/)
-* [Truffle for Etherium](http://truffleframework.com/docs/)
-* [Open Zepplin](https://openzeppelin.org/): Reusable and secure smart contracts in the Solidity
-* [Etherscan](https://etherscan.io/)
-* [Eth Gas Station: Gassguzzlers](https://ethgasstation.info/gasguzzlers.php): Look at the most active contracts 
-* [Building State Channel Apps](https://medium.com/statechannels/state-channel-applications-1f170e7d542e): Use the state channels in Ethereum for instant transactions
-* [EthersJS](https://github.com/ethers-io/ethers.js/): Complete library and implementation of Ethereum wallet using JS
-* Solidity Libs:
-  * [Solidity Array Utils](https://blog.cryptofin.io/improving-the-ethereum-developer-ecosystem-with-libraries-5a95ffaf632d)
-
 
 # Decentralization
 
